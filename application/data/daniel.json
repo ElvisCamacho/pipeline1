@@ -1,0 +1,6 @@
+{
+  "id": 3,
+  "name": "Daniel",
+  "build": { "damage": 100, "stength": 10, "defense": 100, "intelligence": 10 },
+  "rpg": 1
+}

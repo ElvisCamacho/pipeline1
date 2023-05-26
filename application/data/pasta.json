@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "name": "Pasta",
+  "description": "Pasta with tomato sauce",
+  "ingredients": [
+    { "name": "Pasta", "quantity": 1, "unit": "mg" },
+    { "name": "Tomato", "quantity": 2, "unit": "mg" },
+    { "name": "Beef", "quantity": 20, "unit": "mg" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": 4,
+  "name": "God",
+  "build": { "damage": 100, "stength": 10, "defense": 10, "intelligence": 10 },
+  "rpg": 1
+}
+

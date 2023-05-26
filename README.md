@@ -1,1 +1,2 @@
-# pipeline1
+# bachelor-pipeline
+Code regarding pipelines
